@@ -1,0 +1,149 @@
+---
+title: "Math 335 case study 2"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+## Topic 1 
+## Find the top selling product
+
+Question: 
+
+1. What is the potential topselling product?
+
+
+Background: 
+
+There are more and more people selling product on amazon and ebay. However, not many people can keep running their businesses because they cannot find the potential top selling products. In this case, using data science might be able to help them find the potential top selling products.
+
+Feedback 1:
+
+This is an interesting topic to explore. It is very popular to sell products online, and using data analysis for this field will be helpful. Maybe try to look for searching engine data will help.
+
+Feedback 2:
+
+I should change my question from how to what this data can tell us. 
+
+
+Research: 
+
+Soemone people will use some tools like Google Trends to help them find the top selling products. Based on the search data and historical sale data, the author recommend people to sell 12 things like peel-off face mask, nail polish, and so on. 
+
+It is very helpful in using data to analyze the preferences of the market. BY using data, sellers can better sell their products to meet comstumers' needs.
+
+link: https://www.shopify.com/blog/trending-products
+
+
+Preliminary search for data: 
+
+There is a dataset that is related to selling toys in Amazon. It is in Kaggle and is free to download. It comes with one file with 17 cloumns. It'll be a good dataset to sue for a project.
+
+
+Link: 
+
+https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon
+
+
+
+
+
+## Topic 2
+## Movie Recommendation
+
+Question:
+
+2. What are some great movies to recommend?
+
+
+Background:
+
+Nowadays, we have more and more entertaining products, and movie is one of them. We often find the platforms like YouTube will recommend us some movies. That is because there is a recommendation system behind this platform. Using the data is one of the most important part to understand users in this system.
+
+Feedback 1:
+
+That is a good idea. But I need to check if there is any data available.
+
+Feedback 2:
+
+I should change my question from how to what this data can tell us. 
+
+
+Research:
+
+In the article Movie Recommender Systems, Rounak Banik used some datasets to build movie recommender system. For example, he used the TMDB Rating to create top moives chart and use 95th percentile to filter out the top 5% movies. By doing, he can find out those movies with higher rating.
+
+
+Link:
+
+https://www.kaggle.com/rounakbanik/movie-recommender-systems
+
+
+
+Preliminary search for data:
+
+There is a moive dataset from Kaggle, and it contains 45,000 movies. There are seven files for this movie dataset. It is public and easy to download.
+
+Link:
+
+https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+
+
+
+## Topic 3
+## Sentiment Analysis
+
+Question: 
+
+3. What can we understand users or customer reviews toward a subject?
+
+
+Background: 
+
+We all have different opinions toward a subject, but how can we know others' opinions. One of the ways is to analyze their emotions. Analyzing people's emotions toward a subject will be a great help in understanding their own opinions. This will be very useful in running a business.
+
+
+Feedback 1:
+
+This is a cool idea. With data, One thing I can focus on is using demographic to understand customers. 
+
+Feedback 2:
+
+I should change my question from how to what this data can tell us. 
+
+Research:
+
+In article Sentiment Analysis - ML project from Scratch to Production (Web Application), Shareef Shaik and his teammates were using a dataset from Kaggle to perform sentiment analysis based the customer views. They defined the customer views into three catagories: postitive, neutral, and negative. They cleaned the data and perfromed a logistic regression and machine learning in this study. They were able to "predict the sentiment from the text with a 79% accuracy", which is great.
+
+
+Link:
+
+https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8
+
+
+Preliminary search for data:
+
+There are some dataset about product reviews. One of them is about consumer reviews of Amazon products. There are three files in this dataset, it is public and easy to download. It will be a good dataset used as a project. 
+
+
+Link:
+
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
